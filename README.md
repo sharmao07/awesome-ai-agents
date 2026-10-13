@@ -20,7 +20,7 @@ Listings require a public project repository on GitHub, GitLab.com, or Codeberg.
 Pick a category, open it, and choose a project to jump straight to its listing. A project with more than one category appears under each of them.
 
 <details>
-<summary>🤖 AI Agents (103)</summary>
+<summary>🤖 AI Agents (104)</summary>
 <ul>
 <li><a href="#agent-007">Agent 007</a></li>
 <li><a href="#agent-argue">Agent Argue</a></li>
@@ -111,6 +111,7 @@ Pick a category, open it, and choose a project to jump straight to its listing. 
 <li><a href="#sandbase-harness">SandBase Harness</a></li>
 <li><a href="#screenpipe">Screenpipe</a></li>
 <li><a href="#smartipedia">Smartipedia</a></li>
+<li><a href="#solenta">Solenta</a></li>
 <li><a href="#solveathome">solveathome</a></li>
 <li><a href="#somora">somora</a></li>
 <li><a href="#storyroute">StoryRoute</a></li>
@@ -3713,6 +3714,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/User0856/snaprender-integrations">github</a></p>
 <p><strong>Capabilities:</strong> website screenshots · image and PDF capture · remote MCP tools</p>
 <p><strong>Interfaces:</strong> MCP · SDK · API</p>
+</div>
+
+### Solenta
+<div><a href="https://github.com/currentbits/solenta"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/currentbits/solenta"><img src="https://img.shields.io/github/stars/currentbits/solenta?style=social" alt="GitHub stars"></a></div>
+<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/currentbits">@currentbits</a></p>
+<p>🤖 AI Agents</p>
+
+<p>Solenta is a local-first desktop app for coordinating multiple coding agents with shared memory, GitHub-issue-based planning, isolated Git worktrees, worker orchestration, verification-gated completion, and checks of skills, MCP servers, and packages before installation.</p>
+
+<p><a href="https://github.com/currentbits/solenta">github</a> | <a href="https://solenta.app">website</a> | <a href="https://solenta.app/docs.html">docs</a> | <a href="https://github.com/currentbits/solenta/releases">releases</a> | <a href="https://solenta.app/changelog.html">changelog</a></p>
 </div>
 
 ### solveathome

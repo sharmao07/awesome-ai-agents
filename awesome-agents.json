@@ -8505,6 +8505,46 @@
           "repository_status": "active"
         }
       ]
+    },
+    {
+      "id": "solenta-2ba4770e",
+      "project": "Solenta",
+      "project_description": "Solenta is a local-first desktop app for coordinating multiple coding agents with shared memory, GitHub-issue-based planning, isolated Git worktrees, worker orchestration, verification-gated completion, and checks of skills, MCP servers, and packages before installation.",
+      "has_public_repository": true,
+      "categories": [
+        "AI Agents"
+      ],
+      "sources": [
+        {
+          "source": "github",
+          "source_url": "https://github.com/currentbits/solenta",
+          "repository_owner": "currentbits",
+          "repository_owner_url": "https://github.com/currentbits",
+          "stars_last_updated": null,
+          "repository_checked_at": "2026-10-13T16:17:10Z",
+          "repository_status": "active"
+        },
+        {
+          "source": "website",
+          "source_url": "https://solenta.app",
+          "stars_last_updated": null
+        },
+        {
+          "source": "docs",
+          "source_url": "https://solenta.app/docs.html",
+          "stars_last_updated": null
+        },
+        {
+          "source": "releases",
+          "source_url": "https://github.com/currentbits/solenta/releases",
+          "stars_last_updated": null
+        },
+        {
+          "source": "changelog",
+          "source_url": "https://solenta.app/changelog.html",
+          "stars_last_updated": null
+        }
+      ]
     }
   ],
   "categories": [
